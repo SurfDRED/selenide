@@ -32,6 +32,6 @@ public class CardDeliveryOrder {
         $("[data-test-id='phone'] input").setValue("+79278913719");
         $("[data-test-id='agreement']").click();
         $$("button").find(exactText("Забронировать")).click();
-        $(byText("Успешно!")).waitUntil(visible,11000);
+        $(byText("Успешно!")).waitUntil(visible,15000);
     }
 }
