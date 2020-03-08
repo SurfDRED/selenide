@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7dt8jv8qeh32ik7q?svg=true)](https://ci.appveyor.com/project/SurfDRED/selenide)
